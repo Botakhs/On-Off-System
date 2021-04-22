@@ -1,0 +1,11 @@
+{
+    "prefix": "!",
+    "token": "HERE_YOUR_TOKEN",
+    "on-off-logs": "CHANNEL_ID_OF_LOGS",
+    "color": "RANDOM",
+    "Staff Team Role ID": "STAFF_TEAM_ROLE_ID",
+    "ketse": {
+        "ip": "here_ip_of_server",
+        "port": "here_port_of_server"
+    }
+}
